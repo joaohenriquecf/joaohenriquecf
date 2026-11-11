@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">- 🌱 Estudante do 5° periodo de C.C.<br>- 📚 Estou atualmente aprimorando meus conhecimentos em JAVA, e alguns frameworks como Spring.<br>- 💻 Estou em busca da minha primeira oportunidade de trabalho, com o sonho de me tornar um futuro engenheiro de dados!</p>
+<p align="left">- 🌱 Estudante do 6° periodo de C.C.<br>- 📚 Estou atualmente aprimorando meus conhecimentos em JAVA, e alguns frameworks como Spring.<br>- 💻 Estou em busca da minha primeira oportunidade de trabalho, com o sonho de me tornar um futuro engenheiro de dados!</p>
 
 ###
 
